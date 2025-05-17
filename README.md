@@ -69,3 +69,7 @@ El proyecto fue desarrollado utilizando:
 5. Instalar las dependencias y librerias necesarias
 6. Asegúrate de tener `matplotlib` y `networkx` instaladas
 7. Ejecuta el programa
+
+   ##### Nota Importante: En caso de que no se deje ejecutar el programa por el boton de ejecución, ejecutelo por terminal escribiendo Python Main.py
+
+## Gracias por visitar este proyecto
