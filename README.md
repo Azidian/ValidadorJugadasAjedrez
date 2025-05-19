@@ -23,8 +23,8 @@ Si la partida es válida:
 ---
 
 ## Integrantes del proyecto
-- Isabella Cadavid Posada
 - Ana Sofía Angarita 
+- Isabella Cadavid Posada
 - Wendy Vanessa Atehortua Chaverra
 
   ---
