@@ -30,6 +30,7 @@ Si la partida es válida:
   ---
 
 ## Video sustentación del programa
+https://youtu.be/tbgJtV0wNzU
 
 ---
 ## Contenido del repositorio 
