@@ -39,7 +39,6 @@ Si la partida es válida:
   - `jugada.py`, `turno.py`, `partida.py`: Definen las clases base de la estructura de la partida.
   - `tree.py`: Contiene la clase
   - `VisualizadorAjedrez` que dibuja el árbol binario.
-  - `README.md`: Este archivo.
 - Archivo README.md
 - Link al video de sustentación
 
